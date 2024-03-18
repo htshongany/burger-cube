@@ -1,0 +1,35 @@
+@import "base/reset";
+@import "base/typography";
+@import "layout/navigation";
+@import "layout/header";
+@import "layout/footer";
+@import "layout/forms";
+@import "layout/footer";
+@import "pages/home";
+@import "pages/service.scss";
+
+
+
+@media only screen and (max-width: 1286px)
+{   
+    .content {flex-direction: column;}
+}
+
+
+@media only screen and (max-width: 480px)
+{   
+    .main-title{
+
+        text-align: center;
+        font-size: 3em;
+        font-weight: bold;
+        font-family: "Sriracha", cursive;
+    
+    }
+    .main-p{
+        text-align: center;
+        font-size: 1.5em;
+        font-family: "Sriracha", cursive;
+    
+    }
+}

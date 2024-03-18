@@ -1,0 +1,31 @@
+form{
+    
+    width: 100vh;
+    margin-top: 25vh;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+    input{
+        border-bottom: 1px solid #282828;
+        padding: 10px;
+    }
+
+    .btn{
+        background-color: rgb(241, 81, 7);
+        color: #eee;
+        font-weight: bold;
+    }
+
+
+    label{
+        display: none;
+    }
+    
+    textarea{
+        resize: none;
+        height: 100px;
+        padding: 10px;
+    }
+}

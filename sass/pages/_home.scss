@@ -1,0 +1,58 @@
+// ===============================================
+// -------------------- header -------------------
+// ===============================================
+
+
+header{
+    height: 85vh;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    
+
+    .right{
+        margin: auto 4px;
+        // width: 50%;
+    }
+
+    .left{
+        margin: auto 4px;
+        // width: 50%;
+
+        img{
+            align-items: center;
+            width: 400px;
+        
+        }
+    
+    }
+
+
+
+    // -webkit-box-shadow: -5px 50px 50px -8px rgba(0,0,0,0.66); 
+    // box-shadow: -5px 50px 50px -8px rgba(0,0,0,0.66);
+
+
+// -webkit-box-shadow: -8px -50px 50px -8px rgba(0,0,0,0.66); 
+// box-shadow: -8px -50px 50px -8px rgba(0,0,0,0.66);
+}
+
+
+.main-title{
+
+    text-align: center;
+    font-size: 5em;
+    font-weight: bold;
+    font-family: "Sriracha", cursive;
+
+}
+.main-p{
+    text-align: center;
+    font-size: 2em;
+    font-family: "Sriracha", cursive;
+
+}
+
