@@ -25,4 +25,4 @@ Ce projet utilise HTML et SASS pour le développement front-end.
 
 ## Comment faire fonctionner le site
 
-Pour faire fonctionner le site, il vous suffit de lancer la page `index.html` dans le répertoire `templates`.
+Pour faire fonctionner le site, il vous suffit de lancer la page [index](templates/index.html) dans le répertoire `templates`.
