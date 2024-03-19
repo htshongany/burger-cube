@@ -1,6 +1,6 @@
 # Burger Cube
 
-[Burger Cube](https://htshongany.github.io/burger-cube/templates/index.html), un site vitrine pour une entreprise fictive dans le domaine de la restauration. Ce projet a été réalisé pour Elvin code.
+[Burger Cube](templates/index.html), un site vitrine pour une entreprise fictive dans le domaine de la restauration. Ce projet a été réalisé pour Elvin code.
 
 ## Structure du projet
 
@@ -21,7 +21,7 @@ project
 
 ## Technologie utilisée
 
-Ce projet utilise HTML et SASS pour le développement front-end.
+Ce projet utilise HTML et SASS pour le développement front-end. Pour mes images, j’ai utilisé une intelligence artificielle, notamment Ideogram et Dall-e. Quant à la police utilisée, c’est Sriracha Regular. J’ai également utilisé un reset CSS et une typography
 
 ## Comment faire fonctionner le site
 
