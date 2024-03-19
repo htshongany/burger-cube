@@ -1,6 +1,6 @@
 # Burger Cube
 
-Burger Cube, un site vitrine pour une entreprise fictive dans le domaine de la restauration. Ce projet a été réalisé pour Elvin code.
+[Burger Cube](https://htshongany.github.io/burger-cube/templates/index.html), un site vitrine pour une entreprise fictive dans le domaine de la restauration. Ce projet a été réalisé pour Elvin code.
 
 ## Structure du projet
 
